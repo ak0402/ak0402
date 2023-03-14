@@ -9,8 +9,6 @@
 
 - <b>Data Analysis using Python</b>
   - [Iphone Sales Analysis](https://github.com/ak0402/Iphone-Sales-Analysis.git)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2>Certifications</h2>
 - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
