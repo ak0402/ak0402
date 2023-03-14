@@ -4,6 +4,8 @@
 
 - <b>Data Visualizations</b>
   - [Netflix Analysis](https://github.com/ak0402/Netflix-Analysis/blob/94d055939fa3e96ebbbebdda79c909532916fb93/README.md)
+  - [Data Science Jobs & Salaries Analysis](https://github.com/ak0402/DS-Jobs-Salaries-Analysis/blob/7b2adf7dea7857168e3c321899dc30b25d010936/README.md)
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
