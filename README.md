@@ -11,14 +11,12 @@
   - [Iphone Sales Analysis](https://github.com/ak0402/Iphone-Sales-Analysis.git)
 
 <h2>Certifications</h2>
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+  - [NPTEL Certificate](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/NPTEL%20certificate%20(1).pdf)
+  - [Hands-On Tableau](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/Tableau%20certificate%20udemy.pdf)
+  - [SQL](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/SQL%20certificate.pdf)
+  - [Python for Optical Character Recognition (OCR)](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/Python%20certificate%20OCR%20Project_.pdf)
+  - [IBM Data Analytics](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/Coursera%20data%20analytics.pdf)
 
 
 
