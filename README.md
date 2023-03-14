@@ -7,8 +7,8 @@
   - [Data Science Jobs & Salaries Analysis](https://github.com/ak0402/DS-Jobs-Salaries-Analysis/blob/7b2adf7dea7857168e3c321899dc30b25d010936/README.md)
   - [AirBnB Analysis](https://github.com/ak0402/AirBnB-Analysis/blob/64911543ab78306becf7598480b3c975173745e6/README.md)
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Data Analysis using Python</b>
+  - [Iphone Sales Analysis](https://github.com/ak0402/Iphone-Sales-Analysis.git)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
