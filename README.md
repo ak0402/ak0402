@@ -9,6 +9,7 @@
 
 - <b>Data Analysis using Python</b>
   - [Iphone Sales Analysis](https://github.com/ak0402/Iphone-Sales-Analysis.git)
+  - [Smart Watch Data Analysis](https://github.com/ak0402/Smart-Watch-Data-Analysis.git)
 
 <h2>Certifications</h2>
 
