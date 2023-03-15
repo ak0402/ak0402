@@ -1,4 +1,4 @@
-<h1>Hi, I'm Akhilesh! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Data Analyst Enthusiast</a></h1>
+<h1>Hi, I'm Akhilesh! <br/><a href="www.linkedin.com/in/akhilesh-kadam-750668180">Developer, Data Analyst</a></h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
