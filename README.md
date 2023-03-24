@@ -11,6 +11,10 @@
   - [Iphone Sales Analysis](https://github.com/ak0402/Iphone-Sales-Analysis.git)
   - [Smart Watch Data Analysis](https://github.com/ak0402/Smart-Watch-Data-Analysis.git)
 
+- <b>Capstone Project</b>
+  - [Ticket Selling Website's Analysis](https://github.com/ak0402/Capstone-Project-1.git)
+
+
 <h2>Certifications</h2>
 
   - [NPTEL Certificate](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/NPTEL%20certificate%20(1).pdf)
