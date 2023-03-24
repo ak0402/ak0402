@@ -1,4 +1,4 @@
-<h1>Hi, I'm Akhilesh!  <a href="www.linkedin.com/in/akhilesh-kadam-750668180">Developer, Data Analyst</a></h1>
+<h1>Hi, I'm Akhilesh!  <a href="www.linkedin.com/in/akhilesh-kadam-750668180">Data Analyst</a></h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
