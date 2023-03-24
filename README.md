@@ -22,7 +22,7 @@
   - [SQL](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/SQL%20certificate.pdf)
   - [Python for Optical Character Recognition (OCR)](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/Python%20certificate%20OCR%20Project_.pdf)
   - [IBM Data Analytics](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/Coursera%20data%20analytics.pdf)
-
+  - [Data Analytics and Visualization Virtual Internship Accenture (Forage) ](https://github.com/ak0402/Certifications/blob/f3c2a234d5c1d1d957c59b9a9f0b9b7c070cded1/Forage%20Accenture%20Certificate%20Data%20Analytics%20and%20Visualization.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
