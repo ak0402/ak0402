@@ -2,12 +2,18 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Visualizations</b>
+- <b>Data Analysis with Excel</b>
+   - [Company Profit Analysis](https://github.com/ak0402/Analysis-With-Excel/blob/903f8aa08f7f285434f0a4178383c205dadf03fd/Excel%20Project%20-1%20-%20Company%20Profits%20Analysis.xlsx)
+   - [Bike Sales Dashboard](https://github.com/ak0402/Analysis-With-Excel/blob/903f8aa08f7f285434f0a4178383c205dadf03fd/Excel%20Project-2%20Bike%20sales%20Daashboard.xlsx)
+   - [Store Dasboard](https://github.com/ak0402/Analysis-With-Excel/blob/903f8aa08f7f285434f0a4178383c205dadf03fd/Excel%20Project%20-3%20-%20Store%20Data%20Analysis.xlsx)
+
+
+- <b>Data Visualizations with Tableau</b>
   - [Netflix Analysis](https://github.com/ak0402/Netflix-Analysis/blob/94d055939fa3e96ebbbebdda79c909532916fb93/README.md)
   - [Data Science Jobs & Salaries Analysis](https://github.com/ak0402/DS-Jobs-Salaries-Analysis/blob/7b2adf7dea7857168e3c321899dc30b25d010936/README.md)
   - [AirBnB Analysis](https://github.com/ak0402/AirBnB-Analysis/blob/64911543ab78306becf7598480b3c975173745e6/README.md)
 
-- <b>Data Analysis using Python</b>
+- <b>Data Analysis with Python</b>
   - [Iphone Sales Analysis](https://github.com/ak0402/Iphone-Sales-Analysis.git)
   - [Smart Watch Data Analysis](https://github.com/ak0402/Smart-Watch-Data-Analysis.git)
 
