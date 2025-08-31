@@ -21,6 +21,10 @@
   - [Ticket Selling Website's Analysis](https://github.com/ak0402/Capstone-Project-1.git)
 
 
+ <h2>Data Engineering Projects</h2>
+  - [Data Engineering End-to-End Project - Sales Data](https://github.com/ak0402/DataEngineering_Project-)
+
+
 <h2>Certifications & Internships</h2>
 
   - [NPTEL Certificate](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/NPTEL%20certificate%20(1).pdf)
