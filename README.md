@@ -22,7 +22,8 @@
 
 
  <h2>Data Engineering Projects</h2>
-  - [Data Engineering End-to-End Project - Sales Data](https://github.com/ak0402/DataEngineering_Project-)
+
+- [Data Engineering End-to-End Project - Sales Data](https://github.com/ak0402/DataEngineering_Project-)
 
 
 <h2>Certifications & Internships</h2>
