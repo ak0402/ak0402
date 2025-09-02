@@ -23,7 +23,7 @@
 
  <h2>Data Engineering Projects</h2>
 
-- [Data Engineering End-to-End Project - Sales Data](https://github.com/ak0402/DataEngineering_Project-)
+- [Data Engineering End-to-End Project - Sales Data](https://github.com/ak0402/DataEngineering_Project-)  :  Medallion Architecture on Azure (Bronze → Silver → Gold) using ADF, Databricks, and ADLS. Demonstrates API ingestion, scalable data transformations, and analytics-ready outputs.
 
 
 <h2>Certifications & Internships</h2>
