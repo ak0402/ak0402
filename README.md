@@ -26,6 +26,8 @@
 - [Data Engineering End-to-End Project - Sales Data](https://github.com/ak0402/DataEngineering_Project-)  :  Medallion Architecture on Azure (Bronze → Silver → Gold) using ADF, Databricks, and ADLS. Demonstrates API ingestion, scalable data transformations, and analytics-ready outputs.
 
 
+- [DE-Netfliix-Project](https://github.com/ak0402/DE-Netfliix-Project) : Designed an end-to-end pipeline on Azure (ADF, Databricks, Delta Lake, Synapse) with Medallion Architecture, Unity Catalog, and automated ingestion.
+
 <h2>Certifications & Internships</h2>
 
   - [NPTEL Certificate](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/NPTEL%20certificate%20(1).pdf)
