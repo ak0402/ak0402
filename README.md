@@ -31,6 +31,7 @@
 <h2>Certifications & Internships</h2>
 
   - [NPTEL Certificate](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/NPTEL%20certificate%20(1).pdf)
+  - [Microsoft Certified - Fabric Data Engineer Associate](https://github.com/ak0402/Certifications/blob/main/Microsoft%20Certified%20Fabric%20Data%20Engineer%20Associate.pdf)
   - [Microsoft Certified - Azure Data Fundamentals DP 900](https://github.com/ak0402/Certifications/blob/main/DP%20900.pdf)
   - [Hands-On Tableau](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/Tableau%20certificate%20udemy.pdf)
   - [SQL](https://github.com/ak0402/Certifications/blob/c1336f2c930679d6d9d6cefe64ed0a06c37d6d99/SQL%20certificate.pdf)
